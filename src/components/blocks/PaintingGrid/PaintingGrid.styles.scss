@@ -1,0 +1,16 @@
+.painting-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+  .row {
+    display: flex;
+    gap: 4px;
+  }
+
+  .box {
+    width: 32px;
+    height: 32px;
+    background-color: #000000;
+  }
+}

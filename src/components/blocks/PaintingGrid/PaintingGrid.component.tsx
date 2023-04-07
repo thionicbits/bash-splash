@@ -1,3 +1,5 @@
+import './PaintingGrid.styles.scss';
+
 interface IProps {
   width: number;
   height: number;
